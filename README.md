@@ -24,8 +24,6 @@ This portfolio website serves as a platform to showcase my projects, skills, and
 
 * JavaScript
 
-* Bootstrap
-
 **Contact Me 📞**
 
 Feel free to reach out to me if you have any questions or feedback:

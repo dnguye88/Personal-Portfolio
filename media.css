@@ -21,7 +21,7 @@
     display: none;
   }
 
-  .section,
+  section,
   .section-container {
     height: fit-content;
   }
